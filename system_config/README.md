@@ -26,3 +26,6 @@ Disables crash reporting.
 ### ntp_config
 Configure time zone and set NTP servers to NTP Pool Project servers.
 
+### purge_logs
+Delete all system/user logs.
+
